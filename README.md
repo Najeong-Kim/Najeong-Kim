@@ -28,6 +28,14 @@
 
 <br>
 
+<h3> 📚 Study & Project 📚 </h3>
+
+2021.01 ~ 2021.04 코드숨 리액트
+![Vitamin Y](http://vitamin-y.today/) : 개인 프로젝트 - 성향에 맞는 활동을 추천해주는 사이트
+2021.06 ~ 2021.12 네이버 부스트캠프 웹 풀스택
+
+<br>
+
 [![najeong's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mecd)](https://solved.ac/profile/mecd)
 
 <br>
