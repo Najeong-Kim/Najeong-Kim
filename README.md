@@ -37,7 +37,7 @@
   <a href="mailto:atpeoe1023@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=atpeoe1023@gmail.com"/></a>
 </p>
 <p align="center">
-  [![solved](http://mazassumnida.wtf/api/v2/generate_badge?boj=mecd)](https://solved.ac/mecd)
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mecd)](https://solved.ac/mecd)
 </p>
 
 <br>
