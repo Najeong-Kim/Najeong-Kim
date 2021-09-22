@@ -1,8 +1,5 @@
 <h1>🍌 Najeong-Kim</h1>
 
-<br>
-
-
 <h3>🛠 Tech Stack 🛠</h3>
 
 <p>
