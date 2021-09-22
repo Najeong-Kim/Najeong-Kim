@@ -33,7 +33,7 @@
 <br>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Najeong-Kim&show_icons=true&theme=flag-india&count_private=true"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Najeong-Kim&show_icons=true&theme=flag-india&count_private=true"/>
 </p>
 
 <br>
