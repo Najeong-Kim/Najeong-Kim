@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira%20software&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Gitlab-FCA121?style=flat-square&logo=Gitlab&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=Trello&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Slack&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/></a>&nbsp
 
 </p>
 
