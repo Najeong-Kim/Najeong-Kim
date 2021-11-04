@@ -3,37 +3,52 @@
 <h3>🛠 Tech Stack 🛠</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   <br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SWR-E5E5E5?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React%20Testing%20Library-121212?style=flat-square&logo=Testing Library&logoColor=E33332"/>
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=Express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeORM-FF4716?style=flat-square&logo=%20Actions&logoColor=white"/>
 </p>
 
 <br>
 
 <h3> 🐣 Me 🐣 </h3>
 <p>
-    <!--
-  <a href="https://bananajeong.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://bananajeong.tistory.com/"/></a>&nbsp
--->
-  <a href="https://bananajeong.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://bananajeong.tistory.com/"/></a>&nbsp
+  <a href="https://bananajeong.tistory.com/"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://bananajeong.tistory.com/"/></a>&nbsp
   <a href="mailto:atpeoe1023@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=atpeoe1023@gmail.com"/></a>
 </p>
 
 <br>
 
-<h3> 📚 Study & Project 📚 </h3>
+<h3> 📚 Education 📚 </h3>
 
-<p>2021.01 ~ 2021.04 코드숨 리액트</p>
-<a href="http://vitamin-y.today">Vitamin Y</a>
-<p>개인 프로젝트 - 성향에 맞는 활동을 추천해주는 사이트</p>
-<p>2021.06 ~ 2021.12 네이버 부스트캠프 웹 풀스택</p>
+|교육기관명|과정명|기간|교육내용|
+|---|---|---|---|
+|<a href="https://www.codesoom.com/">코드숨</a>|<a href="https://www.codesoom.com/courses/react">소프트웨어 개발의 지혜 <리액트 편> 3기</a>|21.01.18 ~ 21.04.18|React, TDD|
+|<a href="https://www.connect.or.kr/">네이버 커넥트재단</a>|<a href="https://boostcamp.connect.or.kr/program_wm.html">부스트캠프 웹·모바일 6기 챌린지</a>|21.07.19 ~ 21.08.13|자바스크립트, CS 지식, 릴레이 프로젝트|
+|<a href="https://www.connect.or.kr/">네이버 커넥트재단</a>|<a href="https://boostcamp.connect.or.kr/program_wm.html">부스트캠프 웹·모바일 6기 멤버십</a>|21.08.23 ~|학습 스프린트, 그룹 프로젝트|
+
+<br>
+
+<h3> 💻 Project 💻 </h3>
+
+|기간|프로젝트명|개인/팀|프로젝트 소개|깃허브 url|배포 url|
+|---|---|---|---|---|---|
+|21.03.22 ~ 21.04.16|Vitamin Y|개인|성향에 맞는 활동을 추천해주는 사이트|<a href="https://github.com/CodeSoom/project-react-3-Najeong-Kim">repo</a>|http://vitamin-y.today|
+<!-- |21.10.25 ~ |Duxcord|팀|화상회의가 가능한 협업 툴|<a href="https://github.com/boostcampwm-2021/web09-Duxcord">repo</a>|| -->
 
 <br>
 
