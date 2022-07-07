@@ -49,10 +49,10 @@
 
 <h3> 💻 Project 💻 </h3>
 
-|기간|프로젝트명|개인/팀|프로젝트 소개|깃허브 url|배포 url|
-|---|---|---|---|---|---|
-|21.10.25 ~ 21.12.03|Duxcord|팀|채팅, 화상회의가 가능한 협업 툴|<a href="https://github.com/boostcampwm-2021/web09-Duxcord">repo</a>|https://duxcord.kro.kr/|
-|21.03.22 ~ 21.04.16|Vitamin Y|개인|성향에 맞는 활동을 추천해주는 사이트|<a href="https://github.com/CodeSoom/project-react-3-Najeong-Kim">repo</a>|http://vitamin-y.today|
+|기간|프로젝트명|개인/팀|프로젝트 소개|깃허브 url|
+|---|---|---|---|---|
+|21.10.25 ~ 21.12.03|<a href="https://duxcord.kro.kr/">Duxcord</a>|팀|채팅, 화상회의가 가능한 협업 툴|<a href="https://github.com/boostcampwm-2021/web09-Duxcord">repo</a>|
+|21.03.22 ~ 21.04.16|<a href="https://github.com/CodeSoom/project-react-3-Najeong-Kim">Vitamin Y</a>|개인|성향에 맞는 활동을 추천해주는 사이트|<a href="https://codesoom.github.io/project-react-3-Najeong-Kim/">repo</a>|
 
 <br>
 
