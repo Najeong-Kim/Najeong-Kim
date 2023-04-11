@@ -1,31 +1,5 @@
 <h1>🍌 Najeong-Kim</h1>
 
-<h3>🛠 Tech Stack 🛠</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=Express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React%20Testing%20Library-121212?style=flat-square&logo=Testing Library&logoColor=E33332"/>
-
-</p>
-
-<!--   <img src="https://img.shields.io/badge/SWR-E5E5E5?style=flat-square"/>
-  <img src="https://img.shields.io/badge/TypeORM-FF4716?style=flat-square&logo=%20Actions&logoColor=white"/> -->
-
 <br>
 
 <h3> 🐣 Me 🐣 </h3>
@@ -36,10 +10,21 @@
 
 <br>
 
-<h3> 📚 Education 📚 </h3>
+<h3> 👩‍💻 Work Experience </h3>
+
+|회사명|직책|기간|
+|---|---|---|
+|<a href="https://streami.co/">(주)스트리미</a>|Frontend Engineer|22.03.28 ~ 23.03.31|
+
+
+<br>
+
+<h3> 📚 Education </h3>
 
 |교육기관명|과정명|기간|교육내용|
 |---|---|---|---|
+|<a href="https://www.ac2.kr/">애자일 컨설팅</a>|Agile Coach Squared Level 1|22.06.29 ~ 22.09.29|애자일 방법론|
+|한국방송통신대학교|컴퓨터과학과|22.03.02 ~ ||
 |<a href="https://www.connect.or.kr/">네이버 커넥트재단</a>|<a href="https://boostcamp.connect.or.kr/program_wm.html">부스트캠프 웹·모바일 6기 멤버십</a>|21.08.23 ~ 21.12.03|학습 스프린트, 그룹 프로젝트|
 |<a href="https://www.connect.or.kr/">네이버 커넥트재단</a>|<a href="https://boostcamp.connect.or.kr/program_wm.html">부스트캠프 웹·모바일 6기 챌린지</a>|21.07.19 ~ 21.08.13|자바스크립트, CS 지식, 릴레이 프로젝트|
 |<a href="https://www.codesoom.com/">코드숨</a>|<a href="https://www.codesoom.com/courses/react">소프트웨어 개발의 지혜 <리액트 편> 3기</a>|21.01.18 ~ 21.04.18|React, Redux, TDD|
@@ -47,7 +32,7 @@
 
 <br>
 
-<h3> 💻 Project 💻 </h3>
+<h3> 💻 Project </h3>
 
 |기간|프로젝트명|개인/팀|프로젝트 소개|깃허브 url|
 |---|---|---|---|---|
@@ -60,7 +45,7 @@
 
 <br>
 
-<p>
+<!-- <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Najeong-Kim&show_icons=true&theme=flag-india&count_private=true"/>
 </p>
 
@@ -72,4 +57,4 @@
 
 <p>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Najeong-Kim/hit-counter&count_bg=%23FFB100&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</p>
+</p> -->
