@@ -14,31 +14,22 @@
 
 |회사명|직책|기간|
 |---|---|---|
-|<a href="https://streami.co/">(주)스트리미</a>|Frontend Engineer|22.03.28 ~ 23.03.31|
 |<a href="https://riiid.com/">(주)뤼이드</a>|Frontend Engineer|23.07.03 ~ |
-
+|<a href="https://streami.co/">(주)스트리미</a>|Frontend Engineer|22.03.28 ~ 23.03.31|
 
 <br>
 
-<h3> 📚 Education </h3>
+<h3> 📚 Activities & Education </h3>
 
-|교육기관명|과정명|기간|교육내용|
+|기관명|과정명|기간|내용|
 |---|---|---|---|
+|<a href="https://www.ac2.kr/">NEXTERS</a>|넥스터즈 25기|24.07.06 ~ 24.08.24||
 |<a href="https://www.ac2.kr/">애자일 컨설팅</a>|Agile Coach Squared Level 1|22.06.29 ~ 22.09.29|애자일 방법론|
 |한국방송통신대학교|컴퓨터과학과/통계데이터과학과|22.03.02 ~ ||
 |<a href="https://www.connect.or.kr/">네이버 커넥트재단</a>|<a href="https://boostcamp.connect.or.kr/program_wm.html">부스트캠프 웹·모바일 6기 멤버십</a>|21.08.23 ~ 21.12.03|학습 스프린트, 그룹 프로젝트|
 |<a href="https://www.connect.or.kr/">네이버 커넥트재단</a>|<a href="https://boostcamp.connect.or.kr/program_wm.html">부스트캠프 웹·모바일 6기 챌린지</a>|21.07.19 ~ 21.08.13|자바스크립트, CS 지식, 릴레이 프로젝트|
 |<a href="https://www.codesoom.com/">코드숨</a>|<a href="https://www.codesoom.com/courses/react">소프트웨어 개발의 지혜 <리액트 편> 3기</a>|21.01.18 ~ 21.04.18|React, Redux, TDD|
 |건국대학교|환경보건과학과/기계공학부|15.03.02 ~ 20.02.21||
-
-<br>
-
-<h3> 💻 Project </h3>
-
-|기간|프로젝트명|개인/팀|프로젝트 소개|깃허브 url|
-|---|---|---|---|---|
-|21.10.25 ~ 21.12.03|<a href="https://duxcord.kro.kr/">Duxcord</a>|팀|채팅, 화상회의가 가능한 협업 툴|<a href="https://github.com/boostcampwm-2021/web09-Duxcord">repo</a>|
-|21.03.22 ~ 21.04.16|<a href="https://github.com/CodeSoom/project-react-3-Najeong-Kim">Vitamin Y</a>|개인|성향에 맞는 활동을 추천해주는 사이트|<a href="https://codesoom.github.io/project-react-3-Najeong-Kim/">repo</a>|
 
 <br>
 
