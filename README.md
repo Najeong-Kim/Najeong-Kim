@@ -21,15 +21,14 @@
 
 <h3> 📚 Activities & Education </h3>
 
-|기관명|과정명|기간|내용|
-|---|---|---|---|
-|<a href="https://www.ac2.kr/">NEXTERS</a>|넥스터즈 25기|24.07.06 ~ 24.08.24||
-|<a href="https://www.ac2.kr/">애자일 컨설팅</a>|Agile Coach Squared Level 1|22.06.29 ~ 22.09.29|애자일 방법론|
-|한국방송통신대학교|컴퓨터과학과/통계데이터과학과|22.03.02 ~ ||
-|<a href="https://www.connect.or.kr/">네이버 커넥트재단</a>|<a href="https://boostcamp.connect.or.kr/program_wm.html">부스트캠프 웹·모바일 6기 멤버십</a>|21.08.23 ~ 21.12.03|학습 스프린트, 그룹 프로젝트|
-|<a href="https://www.connect.or.kr/">네이버 커넥트재단</a>|<a href="https://boostcamp.connect.or.kr/program_wm.html">부스트캠프 웹·모바일 6기 챌린지</a>|21.07.19 ~ 21.08.13|자바스크립트, CS 지식, 릴레이 프로젝트|
-|<a href="https://www.codesoom.com/">코드숨</a>|<a href="https://www.codesoom.com/courses/react">소프트웨어 개발의 지혜 <리액트 편> 3기</a>|21.01.18 ~ 21.04.18|React, Redux, TDD|
-|건국대학교|환경보건과학과/기계공학부|15.03.02 ~ 20.02.21||
+|기관명|과정명|기간|
+|---|---|---|
+|<a href="https://nexters.co.kr">NEXTERS</a>|넥스터즈 25기, 26기|24.07.06 ~ 25.02.22|
+|<a href="https://www.ac2.kr">애자일 컨설팅</a>|Agile Coach Squared Level 1|22.06.29 ~ 22.09.29|
+|한국방송통신대학교|컴퓨터과학과/통계데이터과학과|22.03.02 ~ 25.02.25|
+|<a href="https://www.connect.or.kr/">네이버 커넥트재단</a>|<a href="https://boostcamp.connect.or.kr/program_wm.html">부스트캠프 웹·모바일 6기 멤버십</a>|21.07.19 ~ 21.12.03|
+|<a href="https://www.codesoom.com/">코드숨</a>|<a href="https://www.codesoom.com/courses/react">소프트웨어 개발의 지혜 <리액트 편> 3기</a>|21.01.18 ~ 21.04.18|
+|건국대학교|환경보건과학과/기계공학부|15.03.02 ~ 20.02.21|
 
 <br>
 
